@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646856409926",
+    "project_id": "todo-list-scanner-provider",
+    "storage_bucket": "todo-list-scanner-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646856409926:android:e88fb382463aa4f162db47",
+        "android_client_info": {
+          "package_name": "br.com.scannerInformatica.flutter_todo_list_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646856409926-l9nr1pfikuv4eeudo46rb9gkc8dik4t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxLHqQp-2z9XD7CPKjdVJJIpdDDl86sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646856409926-l9nr1pfikuv4eeudo46rb9gkc8dik4t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
